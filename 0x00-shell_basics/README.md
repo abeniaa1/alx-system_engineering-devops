@@ -1,3 +1,2 @@
-alx-system_engineering-devops
-wrote bash
-wrote code pwd
+alx-system
+# this program displays thefilr locatin
